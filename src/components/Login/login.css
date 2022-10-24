@@ -1,0 +1,31 @@
+.login-register.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.login-register-header {
+  color: #256d85;
+  font-family: "Rubik", sans-serif;
+  width: 500;
+}
+
+.login-register-form-container {
+  background-color: #a0d99591;
+  min-height: 100vh;
+  display: flex;
+}
+.login-register-form-button {
+  width: 100%;
+  color: #4cacbc !important;
+}
+.login-register-container {
+  background-color: #6cc4a1a6;
+  margin: auto;
+  border: 3px solid #4cabbc8a;
+  padding: 30px 60px;
+  border-radius: 30px;
+}
+
+.login-register-link {
+  color: #6e38c5a1;
+}

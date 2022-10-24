@@ -1,0 +1,31 @@
+.board-container {
+  height: 100%;
+  display: flex;
+}
+
+.board-card {
+  min-width: 200px;
+  min-height: 200px;
+  max-width: 200px;
+  max-height: 200px;
+  text-align: center;
+}
+
+.ant-card-actions{
+  border-radius: 0 0 30px 30px !important;
+}
+
+.board-link{
+  color: #6F38C5;
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px !important;
+}
+
+.board-link, a:hover {
+  color: #6F38C5 !important;
+}
+
+.checklist-popover-create-button {
+  margin-top: 10px;
+}
+

@@ -1,0 +1,17 @@
+.ant-menu-item {
+  color: aqua !important;
+  font-size: 20px;
+}
+
+.ant-menu-item:hover {
+  color: rgb(240, 208, 25) !important;
+  border-bottom: 0 !important;
+}
+
+.ant-menu-item::after {
+  border-bottom: 0 !important;
+}
+
+.navbar-title {
+  margin-bottom: 0 !important;
+}
